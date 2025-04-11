@@ -1,0 +1,165 @@
+    1  git config --global user.name
+    2  git config --global user.name git config --global user.email
+    3  git config --global user.name 
+    4  git config --global user.email
+    5  git config --global user.name "JEANNETTE BENEGUSENGA"
+    6  git config --global user.email "benegusengajeanette@gmail.com"
+    7  git config --global user.name
+    8  git config --global user.email
+    9  makdir my-first-git-project
+   10  index.html
+   11  mkdir my-first-git-project
+   12  cd my-first-git-project
+   13  git init
+   14  echo ""> index.html
+   15  <html lang="en">
+   16  <head>
+   17    <meta charset="UTF-8">
+   18    <title>Student Page</title>
+   19  </head>
+   20  <body>
+   21    <div>
+   22      <h1>Welcome to My Student Page</h1>
+   23      
+   24      <p>This project is created by <strong>Jeannette Benegusenga</strong> as part of my HTML5 assignment.</p>
+   25      
+   26      <p>My favorite activities:</p>
+   27      <ul>
+   28        <li><span>Reading books</span></li>
+   29        <li><span>Designing clothes</span></li>
+   30        <li><span>Helping others</span></li>
+   31      </ul>
+   32      <p>Follow me on 
+   33        <a href="https://linkedin.com/in/jeannette-benegusenga-731b97188" target="_blank">LinkedIn</a>
+   34      </p>
+   35      <p><em>I'm proud to be a student learning web development!</em></p>
+   36    </div>
+   37  </body>
+   38  </html>
+   39  echo ""> index.html
+   40  <html lang="en">
+   41  <head>
+   42    <meta charset="UTF-8">
+   43    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   44    <title>JeaStyle - Fashion & Supplements</title>
+   45    <style>
+   46      body {
+   47        margin: 0;
+   48        font-family: Arial, sans-serif;
+   49        background-color: #fefefe;
+   50        color: #333;
+   51      }
+   52      header {
+   53        background-color: #ff4d6d;
+   54        color: white;
+   55        padding: 1rem 2rem;
+   56        display: flex;
+   57        justify-content: space-between;
+   58        align-items: center;
+   59      }
+   60      header h1 {
+   61        margin: 0;
+   62      }
+   63      nav a {
+   64        color: white;
+   65        margin: 0 1rem;
+   66        text-decoration: none;
+   67        font-weight: bold;
+   68      }
+   69      .hero {
+   70        background: url('https://i.imgur.com/zN5FjFw.jpg') center/cover no-repeat;
+   71        height: 60vh;
+   72        display: flex;
+   73        justify-content: center;
+   74        align-items: center;
+   75        color: white;
+   76        text-shadow: 1px 1px 4px black;
+   77      }
+   78      .hero h2 {
+   79        font-size: 3rem;
+   80      }
+   81      .section {
+   82        padding: 2rem;
+   83        text-align: center;
+   84      }
+   85      .products {
+   86        display: grid;
+   87        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+   88        gap: 2rem;
+   89      }
+   90      .product {
+   91        border: 1px solid #ddd;
+   92        border-radius: 10px;
+   93        padding: 1rem;
+   94        background-color: #fff;
+   95      }
+   96      .product img {
+   97        width: 100%;
+   98        height: auto;
+   99        border-radius: 10px;
+  100        object-fit: contain;
+  101      }
+  102      .product h3 {
+  103        margin-top: 0.5rem;
+  104      }
+  105      .signup, .contact, .payment {
+  106        max-width: 500px;
+  107        margin: auto;
+  108      }
+  109  git config --global user.name
+  110  git config --global user.email
+  111  mkdir GROUP-5-ASSIGNEMENT
+  112  git init
+  113  echo"INDEX.HTML">INDEX.HTML 
+  114  echo"">INDEX.HTML 
+  115  git status
+  116  git config --global user.group -5
+  117  git config --global user.name
+  118  IS
+  119  git config --global user.name
+  120  git config --global user.email
+  121  my-first-git-project/
+  122  cd my-first-git-project
+  123  notepad index.html
+  124  git add validation-result.png
+  125  git commit -m "Add validation result screenshot"
+  126  git push origin main
+  127  cd my-first-git-project
+  128  cd my-first-git-project
+  129  cd my-first-git-project
+  130  ls
+  131  pwd
+  132  ls
+  133  cd ~/Desktop
+  134  ls
+  135  cd ~/Desktop
+  136  mv "validation result.PNG" /c/Users/pc/my-first-git-project/
+  137* [200~cd /c/Users/pc/my-first-git-project
+  138  cd /c/Users/pc/my-first-git-project
+  139  ls
+  140  git add "validation result.PNG
+git add "validation result.PNG"
+  141  git add "validation result.PNG"
+  142  git commit -m "Add validation result screenshot"
+  143  git push origin main
+  144  cd /c/Users/pc/my-first-git-project
+  145  ls
+  146  git log --stat
+  147  validation result.PNG | Bin 0 -> 103264 bytes
+  148  validation result.PNG | Bin 0 -> 103264 bytes
+  149  [200~git checkout main
+  150  git checkout main
+  151  git branch -d master
+  152  git pull origin main
+  153  git push origin main
+  154  notepad git-commands.txt
+  155  notepad git-commands.txt
+  156  git add git-commands.txt
+  157  git commit -m "Save Git command history"
+  158  git push origin main
+  159  notepad git-commands.txt 
+  160  git add git-commands.txt
+  161  git commit -m "Save Git command history"
+  162  git push origin main
+  163  ls
+  164  history > git-commands.txt
